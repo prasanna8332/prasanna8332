@@ -2,7 +2,7 @@
 
 ### Connect with me
 - [Linkedin](https://www.linkedin.com/in/prasanna-kumar-73a83b12b/)
-- [Mail](mailto:prasannakumar8332@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+- [Mail](mailto:prasannakumar8332@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [Instagram](https://www.instagram.com/prasanna____/?hl=en)
 
 ### About Me 🚀
