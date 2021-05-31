@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I am [prasanna kumar](https://www.linkedin.com/in/prasanna-kumar-73a83b12b/)
 
-<!--
-**prasanna8332/prasanna8332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
+- [Linkedin](https://www.linkedin.com/in/prasanna-kumar-73a83b12b/)
+- [Mail](prasannakumar8332@gmail.com)
+- [Instagram](https://www.instagram.com/prasanna____/?hl=en)
 
-Here are some ideas to get you started:
+### About Me 🚀
+-🌱 I’m a Full stack developer with a bachelor's degree in Computer Engineering.
+- As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning React
+Ask me about anything, I am happy to help;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanna8332&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna8332&theme=tokyonight)
